@@ -1,6 +1,28 @@
 # Commercial Card Analytics Case Study: Client Needs Assessment to Executive Reporting
 
+<p>
+  <img src="https://img.shields.io/badge/Program-Citi%20Treasury%20%26%20Trade%20Solutions-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-The%20Forage-lightblue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
+</p>
+
 **Citi Treasury and Trade Solutions (TTS) — Forage Virtual Experience Program**
+
+---
+
+## 📋 Table of Contents
+
+- [Project Overview](#project-overview)
+- [Program Context](#program-context)
+- [Tasks, Approach, and Results](#tasks-approach-and-results)
+  - [Task 1 — Client Discovery and Needs Assessment](#task-1--client-discovery-and-needs-assessment)
+  - [Task 2 — Commercial Card Product Concept and Pitch Deck](#task-2--commercial-card-product-concept-and-pitch-deck)
+  - [Task 3 — Fee Modelling and Transaction Analysis](#task-3--fee-modelling-and-transaction-analysis)
+  - [Task 4 — Leadership Insights Presentation](#task-4--leadership-insights-presentation)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Limitations and Scope](#limitations-and-scope)
+- [Repository Structure](#repository-structure)
+- [Conclusion](#conclusion)
 
 ---
 
